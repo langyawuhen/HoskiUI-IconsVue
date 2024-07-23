@@ -1,10 +1,14 @@
 <script lang="ts" setup>
-import { icons } from '@element-plus/icons-vue/global'
-import { Upload } from '@element-plus/icons-vue'
+import { icons } from "@hoski-ui/icons-vue/src/global";
+// import { Upload } from '@element-plus/icons-vue'
+// import { Apple } from "@element-plus/icons-vue";
+console.log("icons ===>",icons.Apple)
+
 </script>
 
 <template>
-  <Upload class="icon" />
+  <!--  <Upload class="icon" />-->
+  <!--  <Plus class="icon" />-->
   <hr />
   <component :is="Icon" v-for="(Icon, key) in icons" :key="key" class="icon" />
   <hr />

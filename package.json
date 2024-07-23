@@ -1,8 +1,8 @@
 {
-  "name": "@element-plus/icons-monorepo",
-  "version": "2.3.1",
-  "private": true,
-  "packageManager": "pnpm@8.15.4",
+  "name": "@hoski-ui/icons",
+  "version": "1.0.0",
+  "private": false,
+  "packageManager": "pnpm@9.6.0",
   "type": "module",
   "license": "MIT",
   "scripts": {
