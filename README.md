@@ -12,7 +12,7 @@
   <br>
 </p>
 
-# Element Plus Icons
+# HoskiUI Icons
 
 [![Unit Test](https://github.com/element-plus/element-plus-icons/actions/workflows/unit-test.yml/badge.svg)](https://github.com/element-plus/element-plus-icons/actions/workflows/unit-test.yml)
 
@@ -27,4 +27,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2020-PRESENT Element Plus
+[MIT](./LICENSE) License © 2024 BY Langyawuhen
