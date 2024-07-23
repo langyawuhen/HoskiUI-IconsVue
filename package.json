@@ -1,6 +1,6 @@
 {
   "name": "hoski-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "packageManager": "pnpm@9.6.0",
   "type": "module",
