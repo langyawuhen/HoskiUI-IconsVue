@@ -1,10 +1,15 @@
 {
-  "name": "@hoski-ui/icons",
+  "name": "hoski-icons",
   "version": "1.0.0",
   "private": false,
   "packageManager": "pnpm@9.6.0",
   "type": "module",
   "license": "MIT",
+  "keywords": [
+    "icon",
+    "hoski",
+    "hoski-icon"
+  ],
   "scripts": {
     "dev": "pnpm run -C playground dev",
     "build": "pnpm run -C ./packages/vue build",
