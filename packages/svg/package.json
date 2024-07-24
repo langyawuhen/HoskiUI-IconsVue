@@ -1,21 +1,22 @@
 {
   "name": "@hoski-ui/icons-svg",
   "version": "1.0.0",
+  "description": "SVG icon for Hoski Icons collection.",
   "private": false,
-  "description": "SVG icon for Element Plus Icons collection.",
   "keywords": [
     "icon",
     "svg",
+    "hoski",
     "hoski-ui"
   ],
   "license": "MIT",
   "homepage": "https://element-plus.org/",
   "bugs": {
-    "url": "https://github.com/langyawuhen/HoskiUI-IconsVue.git"
+    "url": "https://gitee.com/jiangsu_cargo_base_network/hoski-icons.git"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/langyawuhen/HoskiUI-IconsVue.git",
+    "url": "https://gitee.com/jiangsu_cargo_base_network/hoski-icons.git",
     "directory": "packages/svg"
   },
   "files": [

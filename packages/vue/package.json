@@ -1,26 +1,24 @@
 {
-  "name": "@hoski-ui/icon-vue",
+  "name": "@hoski-ui/icons-vue",
   "version": "1.0.0",
-  "private": false,
   "description": "Vue components of Element Plus Icons collection.",
   "type": "module",
+  "private": false,
   "keywords": [
     "icon",
     "svg",
     "vue",
-    "hoski",
     "hoski-ui",
-    "hoski-icon",
-    "hoski-ui/icons"
+    "图标"
   ],
   "license": "MIT",
   "homepage": "https://element-plus.org/",
   "bugs": {
-    "url": "https://github.com/langyawuhen/HoskiUI-IconsVue.git"
+    "url": "https://gitee.com/jiangsu_cargo_base_network/hoski-icons.git"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/langyawuhen/HoskiUI-IconsVue.git",
+    "url": "https://gitee.com/jiangsu_cargo_base_network/hoski-icons.git",
     "directory": "packages/vue"
   },
   "files": [
